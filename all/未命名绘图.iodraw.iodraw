@@ -84,16 +84,6 @@
         <mxCell id="lDtsntlDOD6Pu5DiInRM-73" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="678" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="lDtsntlDOD6Pu5DiInRM-71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="788" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="lDtsntlDOD6Pu5DiInRM-76">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="818" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-76" value="&lt;span style=&quot;white-space: normal;&quot;&gt;退回上一阶段层级执行&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="898" width="140" height="30" as="geometry" />
         </mxCell>
