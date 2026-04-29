@@ -64,11 +64,17 @@
         <mxCell id="lDtsntlDOD6Pu5DiInRM-36" value="从API结果中筛选满足策略的同级节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-39" target="lDtsntlDOD6Pu5DiInRM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-39" value="是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="800" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-43" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="798" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
