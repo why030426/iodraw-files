@@ -70,11 +70,11 @@
         <mxCell id="lDtsntlDOD6Pu5DiInRM-39" value="是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="800" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-41" value="选择负载最低的节点为目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="925" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-43" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="798" width="40" height="30" as="geometry" />
+          <mxGeometry x="380" y="830" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
