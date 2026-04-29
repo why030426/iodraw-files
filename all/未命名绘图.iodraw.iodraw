@@ -15,7 +15,7 @@
         <mxCell id="lDtsntlDOD6Pu5DiInRM-2" value="调用策略" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="180" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-4" value="获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-4" value="获取具体策略内容：（next_stage,target_tier）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
