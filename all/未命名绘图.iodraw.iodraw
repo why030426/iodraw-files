@@ -34,6 +34,11 @@
         <mxCell id="lDtsntlDOD6Pu5DiInRM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="321" y="742.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-13" value="还有下一阶段" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="200" width="110" height="100" as="geometry" />
         </mxCell>
