@@ -31,13 +31,12 @@
           <mxGeometry x="45" y="900" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-34" value="Ray默认调度器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="830" width="100" height="30" as="geometry" />
+          <mxGeometry x="110" y="850" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-36" target="lDtsntlDOD6Pu5DiInRM-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-36" value="从API结果中筛选满足策略的同级节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="lDtsntlDOD6Pu5DiInRM-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="740" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-39" target="lDtsntlDOD6Pu5DiInRM-41">
           <mxGeometry relative="1" as="geometry" />
@@ -68,6 +67,14 @@
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-50" value="获取上一阶段层级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-53" target="lDtsntlDOD6Pu5DiInRM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-53" value="该层级中有健康节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="640" width="145" height="140" as="geometry" />
