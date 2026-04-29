@@ -20,19 +20,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-17" value="调用API获取所有节点资源信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-20" target="lDtsntlDOD6Pu5DiInRM-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-20" value="构建context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-23" target="lDtsntlDOD6Pu5DiInRM-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-23" value="调用策略decide（context）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="524.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-26" target="lDtsntlDOD6Pu5DiInRM-30">
           <mxGeometry relative="1" as="geometry" />
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-43" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="830" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-44" target="lDtsntlDOD6Pu5DiInRM-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-44" value="根据部署获取所有允许层级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="220" width="120" height="60" as="geometry" />
