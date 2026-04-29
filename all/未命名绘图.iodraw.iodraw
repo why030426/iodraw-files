@@ -30,8 +30,8 @@
         <mxCell id="lDtsntlDOD6Pu5DiInRM-5" value="Ray调度器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;节点资源&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="540" width="80" height="30" as="geometry" />
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;获取节点资源&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="530" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
