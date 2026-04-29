@@ -16,24 +16,8 @@
         <mxCell id="lDtsntlDOD6Pu5DiInRM-13" value="还有下一阶段" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="200" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-17" value="调用API获取所有节点资源信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="470" as="sourcePoint" />
-            <mxPoint x="110" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="lDtsntlDOD6Pu5DiInRM-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="570" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-26" target="lDtsntlDOD6Pu5DiInRM-30">
           <mxGeometry relative="1" as="geometry" />
