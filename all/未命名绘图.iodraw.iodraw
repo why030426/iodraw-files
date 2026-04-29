@@ -10,30 +10,6 @@
         <mxCell id="lDtsntlDOD6Pu5DiInRM-1" value="任务执行循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-2" target="lDtsntlDOD6Pu5DiInRM-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-2" value="调用策略" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="600" width="130" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-4" target="lDtsntlDOD6Pu5DiInRM-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-4" value="获取具体策略内容：（next_stage,target_tier）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="256" y="717.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-5" target="lDtsntlDOD6Pu5DiInRM-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-5" value="Ray调度器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="271" y="847.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;获取所有节点资源&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="331" y="917.5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="271" y="972.5" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDtsntlDOD6Pu5DiInRM-13" target="lDtsntlDOD6Pu5DiInRM-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
