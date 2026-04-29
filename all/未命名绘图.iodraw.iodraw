@@ -46,7 +46,7 @@
         <mxCell id="lDtsntlDOD6Pu5DiInRM-17" value="调用API获取所有节点资源信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-20" value="构建context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
