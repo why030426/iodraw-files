@@ -46,6 +46,9 @@
         <mxCell id="lDtsntlDOD6Pu5DiInRM-30" value="确定目标层级&lt;div&gt;（根据部署配置/默认）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="870" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
