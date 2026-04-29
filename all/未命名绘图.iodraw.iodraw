@@ -24,6 +24,9 @@
         <mxCell id="lDtsntlDOD6Pu5DiInRM-5" value="Ray调度器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="540" width="280" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
