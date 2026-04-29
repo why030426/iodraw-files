@@ -72,7 +72,7 @@
         <mxCell id="lDtsntlDOD6Pu5DiInRM-44" value="根据部署获取所有允许层级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lDtsntlDOD6Pu5DiInRM-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lDtsntlDOD6Pu5DiInRM-48" value="根据策略需求筛选出符合节点并分组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
