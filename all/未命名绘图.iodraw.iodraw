@@ -35,7 +35,7 @@
           <mxGeometry x="50" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDtsntlDOD6Pu5DiInRM-26" value="是否满足策略需求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="630" width="80" height="80" as="geometry" />
+          <mxGeometry x="70" y="630" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
