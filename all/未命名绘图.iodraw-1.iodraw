@@ -10,7 +10,7 @@
         <mxCell id="rGg1gA7WioYG8ftMIwve-3" value="Web控制台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rGg1gA7WioYG8ftMIwve-4" value="Rest API服务端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rGg1gA7WioYG8ftMIwve-4" value="REST API服务端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rGg1gA7WioYG8ftMIwve-7" value="FastAPI服务层&lt;div&gt;阶段管理/应用管理/策略管理/任务管理/实验管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
