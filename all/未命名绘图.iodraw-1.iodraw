@@ -49,6 +49,9 @@
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-16" value="包装阶段函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-17" value="提交至Ray集群，获取结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
