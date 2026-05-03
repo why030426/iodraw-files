@@ -23,10 +23,10 @@
           <mxGeometry x="414" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-8" value="按负载评分选取最佳节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1OVyi2m2pGwpbigfMm3Y-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-9" value="加载部署配置（）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
