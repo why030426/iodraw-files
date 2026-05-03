@@ -142,6 +142,12 @@
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-32" value="降级到允许层级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-48" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="368" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
