@@ -73,8 +73,11 @@
         <mxCell id="rGg1gA7WioYG8ftMIwve-24" value="Prometheus监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="460" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rGg1gA7WioYG8ftMIwve-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="645" y="638" width="50" height="30" as="geometry" />
+        <mxCell id="rGg1gA7WioYG8ftMIwve-26" value="指标采集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="660" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGg1gA7WioYG8ftMIwve-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.469;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rGg1gA7WioYG8ftMIwve-24" target="rGg1gA7WioYG8ftMIwve-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
