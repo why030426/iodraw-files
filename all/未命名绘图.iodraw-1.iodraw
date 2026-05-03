@@ -68,7 +68,7 @@
           <mxGeometry x="180" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-12" value="构建Ray调度参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-13" value="目标节点是否可用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="910" width="120" height="80" as="geometry" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-22" value="更新当前输入和阶段，继续循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1OVyi2m2pGwpbigfMm3Y-32" target="1OVyi2m2pGwpbigfMm3Y-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-32" value="降级到允许层级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
