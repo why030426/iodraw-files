@@ -59,7 +59,10 @@
           <mxGeometry x="690" y="385" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rGg1gA7WioYG8ftMIwve-21" value="调度到&lt;div&gt;目标节点&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="363" width="70" height="40" as="geometry" />
+          <mxGeometry x="580" y="363" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rGg1gA7WioYG8ftMIwve-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.65;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rGg1gA7WioYG8ftMIwve-16" target="rGg1gA7WioYG8ftMIwve-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
