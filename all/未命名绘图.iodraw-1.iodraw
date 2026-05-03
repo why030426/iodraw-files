@@ -34,6 +34,12 @@
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-11" value="资源预估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-12" value="构建Ray调度参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-13" value="是否" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
