@@ -13,8 +13,8 @@
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-4" value="调用策略函数，获取决策结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="190" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1OVyi2m2pGwpbigfMm3Y-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="280" width="80" height="80" as="geometry" />
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-5" value="策略是否指定了目标节点？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
