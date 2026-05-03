@@ -91,6 +91,9 @@
         <mxCell id="rGg1gA7WioYG8ftMIwve-31" value="策略/阶段代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="690" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rGg1gA7WioYG8ftMIwve-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.208;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rGg1gA7WioYG8ftMIwve-3" target="rGg1gA7WioYG8ftMIwve-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
