@@ -94,8 +94,8 @@
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-22" value="更新当前输入和阶段，继续循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1OVyi2m2pGwpbigfMm3Y-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-32" value="降级到允许层级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
