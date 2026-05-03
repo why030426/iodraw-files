@@ -31,7 +31,7 @@
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-10" value="目标层级是否是允许层级" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="590" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1OVyi2m2pGwpbigfMm3Y-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-11" value="资源预估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
