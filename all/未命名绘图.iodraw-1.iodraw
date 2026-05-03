@@ -23,13 +23,13 @@
           <mxGeometry x="90" y="320" width="450" height="170" as="geometry" />
         </mxCell>
         <mxCell id="rGg1gA7WioYG8ftMIwve-9" value="DAG遍历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="385" width="90" height="60" as="geometry" />
+          <mxGeometry x="130" y="385" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rGg1gA7WioYG8ftMIwve-10" value="策略决策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="385" width="90" height="60" as="geometry" />
+          <mxGeometry x="240" y="385" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rGg1gA7WioYG8ftMIwve-11" value="节点选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="368.5" y="385" width="90" height="60" as="geometry" />
+          <mxGeometry x="350" y="385" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
