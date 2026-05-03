@@ -17,7 +17,7 @@
           <mxGeometry x="40" y="95" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rGg1gA7WioYG8ftMIwve-7" value="FastAPI服务层&lt;div&gt;阶段管理/应用管理/策略管理/任务管理/实验管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="140" y="230" width="340" height="60" as="geometry" />
+          <mxGeometry x="140" y="220" width="340" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
