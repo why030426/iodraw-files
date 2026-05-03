@@ -55,11 +55,17 @@
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-9" value="加载部署配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1OVyi2m2pGwpbigfMm3Y-10" target="1OVyi2m2pGwpbigfMm3Y-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1OVyi2m2pGwpbigfMm3Y-10" target="1OVyi2m2pGwpbigfMm3Y-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-10" value="目标层级是否在允许层级内" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-11" value="资源预估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-12" value="构建Ray调度参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="810" width="120" height="60" as="geometry" />
