@@ -25,8 +25,11 @@
         <mxCell id="rGg1gA7WioYG8ftMIwve-9" value="DAG遍历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="385" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rGg1gA7WioYG8ftMIwve-10" value="DAG遍历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="395" width="90" height="60" as="geometry" />
+        <mxCell id="rGg1gA7WioYG8ftMIwve-10" value="策略决策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="385" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGg1gA7WioYG8ftMIwve-11" value="DAG遍历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="405" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
