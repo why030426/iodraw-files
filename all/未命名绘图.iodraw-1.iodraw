@@ -82,7 +82,7 @@
         <mxCell id="rGg1gA7WioYG8ftMIwve-28" value="实时负载指标&lt;br&gt;（CPU/内存）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="610" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rGg1gA7WioYG8ftMIwve-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rGg1gA7WioYG8ftMIwve-29" value="持久化存储&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="580" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="rGg1gA7WioYG8ftMIwve-30" value="SQLite数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
