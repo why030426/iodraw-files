@@ -10,6 +10,9 @@
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-2" value="构建context（当前阶段、执行历史、可选下一步、节点资源信息）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="100" width="180" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1OVyi2m2pGwpbigfMm3Y-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
