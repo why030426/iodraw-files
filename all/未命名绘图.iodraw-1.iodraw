@@ -28,14 +28,23 @@
         <mxCell id="rGg1gA7WioYG8ftMIwve-9" value="DAG遍历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="385" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rGg1gA7WioYG8ftMIwve-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rGg1gA7WioYG8ftMIwve-10" target="rGg1gA7WioYG8ftMIwve-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rGg1gA7WioYG8ftMIwve-10" value="策略决策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="385" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGg1gA7WioYG8ftMIwve-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rGg1gA7WioYG8ftMIwve-11" target="rGg1gA7WioYG8ftMIwve-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rGg1gA7WioYG8ftMIwve-11" value="节点选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="385" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rGg1gA7WioYG8ftMIwve-12" value="Ray调度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="385" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGg1gA7WioYG8ftMIwve-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
