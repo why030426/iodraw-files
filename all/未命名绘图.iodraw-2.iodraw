@@ -43,8 +43,8 @@
         <mxCell id="kJFJnLCKdp9HxduEgtE0-15" value="SQLite数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="kJFJnLCKdp9HxduEgtE0-17" value="入库，方便后续" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="145" y="308" width="110" height="30" as="geometry" />
+        <mxCell id="kJFJnLCKdp9HxduEgtE0-17" value="入库，用于可视化和调度判断" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="310" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
