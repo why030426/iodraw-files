@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-8" value="降级到策略，由Ray默认调度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1OVyi2m2pGwpbigfMm3Y-9" target="1OVyi2m2pGwpbigfMm3Y-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-17" value="提交至Ray集群" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="At232PIjBP9FVPqHcTXB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1OVyi2m2pGwpbigfMm3Y-18" target="1OVyi2m2pGwpbigfMm3Y-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-18" value="记录执行轨迹" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="290" width="120" height="60" as="geometry" />
