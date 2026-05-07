@@ -165,7 +165,7 @@
         <mxCell id="At232PIjBP9FVPqHcTXB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="At232PIjBP9FVPqHcTXB-43" target="1OVyi2m2pGwpbigfMm3Y-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="At232PIjBP9FVPqHcTXB-43" value="将执行结果作为输入传递至下一阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="At232PIjBP9FVPqHcTXB-43" value="获取执行结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="308" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="At232PIjBP9FVPqHcTXB-45" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
