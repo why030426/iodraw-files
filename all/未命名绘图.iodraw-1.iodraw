@@ -157,11 +157,11 @@
         <mxCell id="At232PIjBP9FVPqHcTXB-40" value="执行是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="410" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="At232PIjBP9FVPqHcTXB-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="At232PIjBP9FVPqHcTXB-43" value="将执行结果作为输入传递至下一阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="At232PIjBP9FVPqHcTXB-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="535" y="378" width="50" height="30" as="geometry" />
+        <mxCell id="At232PIjBP9FVPqHcTXB-45" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="380" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
