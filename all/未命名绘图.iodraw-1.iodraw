@@ -154,8 +154,16 @@
         <mxCell id="At232PIjBP9FVPqHcTXB-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="At232PIjBP9FVPqHcTXB-40" target="At232PIjBP9FVPqHcTXB-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="At232PIjBP9FVPqHcTXB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="At232PIjBP9FVPqHcTXB-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="At232PIjBP9FVPqHcTXB-40" value="执行是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="410" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="At232PIjBP9FVPqHcTXB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="At232PIjBP9FVPqHcTXB-43" target="1OVyi2m2pGwpbigfMm3Y-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="At232PIjBP9FVPqHcTXB-43" value="将执行结果作为输入传递至下一阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="320" width="120" height="60" as="geometry" />
