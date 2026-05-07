@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-19" value="是否到达出口阶段" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="550" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="At232PIjBP9FVPqHcTXB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1OVyi2m2pGwpbigfMm3Y-20" target="1OVyi2m2pGwpbigfMm3Y-21">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="700" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-22" value="更新当前输入和阶段，继续循环" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="10" width="120" height="60" as="geometry" />
