@@ -139,7 +139,7 @@
         <mxCell id="At232PIjBP9FVPqHcTXB-30" value="执行，记录执行轨迹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="At232PIjBP9FVPqHcTXB-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="At232PIjBP9FVPqHcTXB-33" value="由Ray默认调度器进行兜底调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
