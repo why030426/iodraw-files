@@ -97,17 +97,17 @@
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-15" value="设置软亲和策略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="At232PIjBP9FVPqHcTXB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1OVyi2m2pGwpbigfMm3Y-16" target="1OVyi2m2pGwpbigfMm3Y-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-16" value="包装阶段函数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-17" value="提交至Ray集群" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1OVyi2m2pGwpbigfMm3Y-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1OVyi2m2pGwpbigfMm3Y-18" target="1OVyi2m2pGwpbigfMm3Y-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-18" value="记录执行轨迹" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1320" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1OVyi2m2pGwpbigfMm3Y-19" target="1OVyi2m2pGwpbigfMm3Y-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
