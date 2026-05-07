@@ -72,16 +72,16 @@
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-12" value="构建Ray调度参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="At232PIjBP9FVPqHcTXB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1OVyi2m2pGwpbigfMm3Y-14">
+        <mxCell id="At232PIjBP9FVPqHcTXB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="670" as="sourcePoint" />
+            <mxPoint x="610" y="633" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="At232PIjBP9FVPqHcTXB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1OVyi2m2pGwpbigfMm3Y-14" target="1OVyi2m2pGwpbigfMm3Y-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1OVyi2m2pGwpbigfMm3Y-14" value="设置层级标签，Ray在层级内自动调度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="573" width="120" height="60" as="geometry" />
+        <mxCell id="At232PIjBP9FVPqHcTXB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1OVyi2m2pGwpbigfMm3Y-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="573" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="At232PIjBP9FVPqHcTXB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1OVyi2m2pGwpbigfMm3Y-16" target="1OVyi2m2pGwpbigfMm3Y-17">
           <mxGeometry relative="1" as="geometry" />
