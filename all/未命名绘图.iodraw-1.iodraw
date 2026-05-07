@@ -150,6 +150,9 @@
         <mxCell id="At232PIjBP9FVPqHcTXB-24" value="调用Ray执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="At232PIjBP9FVPqHcTXB-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
