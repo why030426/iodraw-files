@@ -151,6 +151,11 @@
         <mxCell id="At232PIjBP9FVPqHcTXB-38" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="660" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="At232PIjBP9FVPqHcTXB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="At232PIjBP9FVPqHcTXB-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="At232PIjBP9FVPqHcTXB-40" value="执行是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="390" width="140" height="100" as="geometry" />
         </mxCell>
