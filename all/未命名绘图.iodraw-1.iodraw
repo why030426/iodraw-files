@@ -158,7 +158,7 @@
           <mxGeometry x="680" y="110" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1OVyi2m2pGwpbigfMm3Y-58" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="570" y="170" width="40" height="30" as="geometry" />
+          <mxGeometry x="560" y="70" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="At232PIjBP9FVPqHcTXB-4" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="680" width="40" height="30" as="geometry" />
