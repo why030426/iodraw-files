@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="J3kTyrgnfTUZhxcjdbKs">
-    <mxGraphModel dx="2109" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1282" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-1" value="用户上传阶段代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCFQbOA5br0-tMPqH1DZ-2" target="WCFQbOA5br0-tMPqH1DZ-4">
           <mxGeometry relative="1" as="geometry" />
@@ -17,19 +17,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-2" value="代码合法校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="120" width="140" height="100" as="geometry" />
+          <mxGeometry x="130" y="120" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCFQbOA5br0-tMPqH1DZ-4" target="WCFQbOA5br0-tMPqH1DZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-4" value="保存至stage_code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCFQbOA5br0-tMPqH1DZ-6" target="WCFQbOA5br0-tMPqH1DZ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-6" value="填写阶段注册信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCFQbOA5br0-tMPqH1DZ-8" target="WCFQbOA5br0-tMPqH1DZ-11">
           <mxGeometry relative="1" as="geometry" />
@@ -38,19 +38,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-8" value="指定代码函数是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="400" width="140" height="100" as="geometry" />
+          <mxGeometry x="130" y="400" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-11" value="返回错误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-14" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="140" width="40" height="30" as="geometry" />
+          <mxGeometry x="90" y="140" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-15" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="420" width="40" height="30" as="geometry" />
+          <mxGeometry x="90" y="420" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-16" value="写入Stage表，关联代码，注册完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
