@@ -52,8 +52,14 @@
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-16" value="写入Stage表，关联代码，注册完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WCFQbOA5br0-tMPqH1DZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCFQbOA5br0-tMPqH1DZ-20" target="WCFQbOA5br0-tMPqH1DZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-20" value="阶段组合为DAG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCFQbOA5br0-tMPqH1DZ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
