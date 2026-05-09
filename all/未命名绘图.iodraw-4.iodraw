@@ -91,8 +91,8 @@
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="190" y="-60" width="20" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="WCFQbOA5br0-tMPqH1DZ-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="145" y="-22" width="50" height="30" as="geometry" />
+        <mxCell id="WCFQbOA5br0-tMPqH1DZ-38" value="阶段注册流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-22" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
