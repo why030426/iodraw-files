@@ -16,10 +16,13 @@
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-2" value="代码合法校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="140" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="WCFQbOA5br0-tMPqH1DZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCFQbOA5br0-tMPqH1DZ-4" target="WCFQbOA5br0-tMPqH1DZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WCFQbOA5br0-tMPqH1DZ-4" value="保存至stage_code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WCFQbOA5br0-tMPqH1DZ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WCFQbOA5br0-tMPqH1DZ-6" value="填写阶段注册信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
