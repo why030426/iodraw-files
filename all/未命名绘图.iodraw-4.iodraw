@@ -118,6 +118,9 @@
         <mxCell id="EE94f6bLAYYYrL-3gj7i-8" value="所有阶段从入口可达 BFS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="360" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EE94f6bLAYYYrL-3gj7i-9" value="相邻阶段类型匹配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="118" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
