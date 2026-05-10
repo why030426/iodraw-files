@@ -115,8 +115,8 @@
         <mxCell id="EE94f6bLAYYYrL-3gj7i-7" value="无环检测&amp;nbsp; DFS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="340" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EE94f6bLAYYYrL-3gj7i-8" value="是否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="158" width="50" height="30" as="geometry" />
+        <mxCell id="EE94f6bLAYYYrL-3gj7i-8" value="所有阶段从入口可达 BFS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="158" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
