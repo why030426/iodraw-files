@@ -112,8 +112,8 @@
         <mxCell id="EE94f6bLAYYYrL-3gj7i-6" value="出口是否有出边" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="320" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EE94f6bLAYYYrL-3gj7i-7" value="是否成环" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="340" width="70" height="30" as="geometry" />
+        <mxCell id="EE94f6bLAYYYrL-3gj7i-7" value="无环检测DFS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="340" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EE94f6bLAYYYrL-3gj7i-8" value="是否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="665" y="158" width="50" height="30" as="geometry" />
