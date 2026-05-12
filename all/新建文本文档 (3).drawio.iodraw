@@ -37,12 +37,6 @@
         <mxCell id="6t5sTY7slnW8zWfKy3eA-16" value="策略/阶段代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="740" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.734;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6t5sTY7slnW8zWfKy3eA-2" target="6t5sTY7slnW8zWfKy3eA-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.267;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6t5sTY7slnW8zWfKy3eA-1" target="6t5sTY7slnW8zWfKy3eA-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-21" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="65" y="490" width="420" height="60" as="geometry" />
         </mxCell>
@@ -122,7 +116,7 @@
           <mxGeometry x="290" y="710" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-43" value="提交推理任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="378" width="100" height="30" as="geometry" />
+          <mxGeometry x="270" y="380" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
