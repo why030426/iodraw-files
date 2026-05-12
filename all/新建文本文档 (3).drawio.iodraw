@@ -16,6 +16,15 @@
         <mxCell id="6t5sTY7slnW8zWfKy3eA-4" value="编排引擎（RayExecutor）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-5" value="DAG遍历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-6" value="DAG遍历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-7" value="DAG遍历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
