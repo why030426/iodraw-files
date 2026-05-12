@@ -103,8 +103,8 @@
             <mxPoint x="1520" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JLYpf_IFXy4DfvYMdaZc-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="335" width="550" height="60" as="geometry" />
+        <mxCell id="JLYpf_IFXy4DfvYMdaZc-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.33;dx=28.33;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="400" width="550" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
