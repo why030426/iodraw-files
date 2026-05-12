@@ -113,7 +113,7 @@
           <mxGeometry x="950" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ZKnJ7XHd2kcIE69_ySN-49" value="前端展示各层级信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="810" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ZKnJ7XHd2kcIE69_ySN-55" value="聚合计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="795" y="150" width="80" height="30" as="geometry" />
