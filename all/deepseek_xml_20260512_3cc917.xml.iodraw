@@ -34,17 +34,14 @@
         <mxCell id="IptYaKvBGe1NKHdC63C7-13" value="&lt;b&gt;终端层节点&lt;/b&gt;&lt;div&gt;&lt;b&gt;标签：tier_end&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="165" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IptYaKvBGe1NKHdC63C7-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="600" y="430" width="70" height="80" as="geometry" />
+        <mxCell id="IptYaKvBGe1NKHdC63C7-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="160" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IptYaKvBGe1NKHdC63C7-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IptYaKvBGe1NKHdC63C7-17">
-          <mxGeometry x="20" y="10" width="50" height="60" as="geometry" />
+        <mxCell id="IptYaKvBGe1NKHdC63C7-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IptYaKvBGe1NKHdC63C7-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IptYaKvBGe1NKHdC63C7-17">
-          <mxGeometry x="10" y="10" width="50" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IptYaKvBGe1NKHdC63C7-14" value="&lt;b&gt;节点&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IptYaKvBGe1NKHdC63C7-17">
-          <mxGeometry x="-20" y="10" width="70" height="60" as="geometry" />
+        <mxCell id="IptYaKvBGe1NKHdC63C7-14" value="&lt;b&gt;节点&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="160" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
