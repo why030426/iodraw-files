@@ -109,6 +109,9 @@
         <mxCell id="IptYaKvBGe1NKHdC63C7-45" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="490" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IptYaKvBGe1NKHdC63C7-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IptYaKvBGe1NKHdC63C7-46" target="IptYaKvBGe1NKHdC63C7-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IptYaKvBGe1NKHdC63C7-46" value="任务排队等待" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
         </mxCell>
