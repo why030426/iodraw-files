@@ -127,6 +127,9 @@
         <mxCell id="6ZKnJ7XHd2kcIE69_ySN-52" value="聚合计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="970" y="160" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-55" value="聚合计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="208" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
