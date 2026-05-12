@@ -121,8 +121,8 @@
         <mxCell id="6t5sTY7slnW8zWfKy3eA-41" value="实时负载指标&lt;div&gt;（CPU/内存）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="710" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="378" width="50" height="30" as="geometry" />
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-43" value="提交推理任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="378" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
