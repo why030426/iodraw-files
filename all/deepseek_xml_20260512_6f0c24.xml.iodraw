@@ -1,104 +1,65 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="E_wEhlqhncS9stki8W4J">
-    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="prometheus-v2" name="Prometheus监控结构图(修正版)">
+    <mxGraphModel dx="6042" dy="2367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-1" value="&lt;b&gt;Ray集群&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="360" height="240" as="geometry" />
+        <mxCell id="title" value="Prometheus 监控结构图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="300" y="20" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-8" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="target-box" value="&lt;b&gt;Ray 集群节点&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;align=left;spacingTop=5;spacingLeft=5;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="60" y="100" width="250" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-7" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="70" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="terminal" value="终端节点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="90" y="135" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-6" value="暴露/metrics接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="terminal-metrics" value="/metrics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="90" y="180" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-2" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="60" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="edge" value="边缘节点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="90" y="235" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ZKnJ7XHd2kcIE69_ySN-9" target="6ZKnJ7XHd2kcIE69_ySN-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="edge-metrics" value="/metrics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="90" y="275" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-9" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="cloud" value="云端节点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="200" y="135" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-10" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="cloud-metrics" value="/metrics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-11" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="note" value="Reporter Agent&lt;br&gt;（Ray 内置组件）&lt;br&gt;自动采集运行时指标" style="text;html=1;strokeColor=none;fillColor=none;fontSize=9;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ZKnJ7XHd2kcIE69_ySN-12" target="6ZKnJ7XHd2kcIE69_ySN-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="prom-server" value="&lt;b&gt;Prometheus Server&lt;/b&gt;&lt;br&gt;Pull 模型采集&lt;br&gt;时序数据库&lt;br&gt;PromQL 查询引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="400" y="170" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-12" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="pull-arrow" style="endArrow=classic;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;" parent="1" edge="1">
+          <mxGeometry x="310" y="220" as="sourcePoint" />
+          <mxGeometry x="400" y="220" as="targetPoint" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-13" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="70" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="pull-label" value="定期 Pull /metrics" style="text;html=1;strokeColor=none;fillColor=none;fontSize=10;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="320" y="195" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-14" value="边缘节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="executor" value="&lt;b&gt;执行引擎&lt;/b&gt;&lt;br&gt;通过 PromQL 查询&lt;br&gt;获取 CPU/内存数据&lt;br&gt;填充 available_nodes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="700" y="170" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ZKnJ7XHd2kcIE69_ySN-15" target="6ZKnJ7XHd2kcIE69_ySN-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="query-arrow" style="endArrow=classic;html=1;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry x="620" y="215" as="sourcePoint" />
+          <mxGeometry x="700" y="215" as="targetPoint" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-15" value="Reporter&lt;div&gt;Agent&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="290" y="90" width="80" height="60" as="geometry" />
+        <mxCell id="query-label" value="PromQL 查询" style="text;html=1;strokeColor=none;fillColor=none;fontSize=10;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="630" y="195" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ZKnJ7XHd2kcIE69_ySN-16" target="6ZKnJ7XHd2kcIE69_ySN-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="decision" value="&lt;b&gt;调度决策&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center;" parent="1" vertex="1">
+          <mxGeometry x="740" y="300" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-16" value="Reporter&lt;div&gt;Agent&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="290" y="160" width="80" height="60" as="geometry" />
+        <mxCell id="decision-arrow" style="endArrow=classic;html=1;strokeColor=#b85450;strokeWidth=1.5;" parent="1" edge="1">
+          <mxGeometry x="800" y="260" as="sourcePoint" />
+          <mxGeometry x="800" y="300" as="targetPoint" />
         </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ZKnJ7XHd2kcIE69_ySN-17" target="6ZKnJ7XHd2kcIE69_ySN-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-17" value="Reporter&lt;div&gt;Agent&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="290" y="230" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210" y="100" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6ZKnJ7XHd2kcIE69_ySN-20" source="6ZKnJ7XHd2kcIE69_ySN-8" target="6ZKnJ7XHd2kcIE69_ySN-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-19" value="上报信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6ZKnJ7XHd2kcIE69_ySN-20">
-          <mxGeometry width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210" y="160" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6ZKnJ7XHd2kcIE69_ySN-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-27" value="上报信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6ZKnJ7XHd2kcIE69_ySN-25">
-          <mxGeometry width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-29" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210" y="230" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6ZKnJ7XHd2kcIE69_ySN-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-31" value="上报信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6ZKnJ7XHd2kcIE69_ySN-29">
-          <mxGeometry width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ZKnJ7XHd2kcIE69_ySN-37" target="6ZKnJ7XHd2kcIE69_ySN-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-37" value="Prometheus监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="720" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-39" value="定时拉取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="165" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="flow-note" value="&lt;b&gt;监控流程：&lt;/b&gt; ① Ray 各节点 Reporter Agent 自动采集运行时指标并以 /metrics 暴露 → ② Prometheus Server 定期 Pull 数据并存储 → ③ 执行引擎通过 PromQL 查询实时负载 → ④ 数据注入策略上下文，驱动卸载调度决策。" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="60" y="400" width="860" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
