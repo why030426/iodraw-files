@@ -16,14 +16,11 @@
         <mxCell id="5" value="依赖注入系统&#xa;Depends()&#xa;(DB Session管理 / 资源注入)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="540" y="120" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Pydantic Schema&#xa;(请求/响应验证 + 序列化)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="770" y="220" width="220" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="7" value="Service层&#xa;(业务逻辑处理)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="280" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8" value="SQLAlchemy ORM + SQLite&#xa;(数据持久化)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="540" y="340" width="240" height="80" as="geometry" />
+          <mxGeometry x="540" y="280" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Ray集群&#xa;(推理任务执行)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="160" y="385" width="220" height="80" as="geometry" />
@@ -50,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1vOu1A4RarPySLb4ABB6-16" value="Pydantic Schema&#xa;(请求/响应验证 + 序列化)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="230" width="180" height="50" as="geometry" />
+          <mxGeometry x="790" y="140" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
