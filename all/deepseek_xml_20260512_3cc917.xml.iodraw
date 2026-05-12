@@ -22,6 +22,9 @@
         <mxCell id="IptYaKvBGe1NKHdC63C7-9" value="是否启用节点亲和策略" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="600" width="140" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="IptYaKvBGe1NKHdC63C7-10" value="GCS&lt;div&gt;（Global Center Store）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
