@@ -97,6 +97,9 @@
         <mxCell id="IptYaKvBGe1NKHdC63C7-37" value="资源需求&lt;div&gt;{&quot;tier_end&quot;:1}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IptYaKvBGe1NKHdC63C7-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
