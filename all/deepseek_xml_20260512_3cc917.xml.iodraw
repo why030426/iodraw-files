@@ -25,6 +25,9 @@
         <mxCell id="IptYaKvBGe1NKHdC63C7-6" value="资源匹配&lt;div&gt;根据标签选择节点&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IptYaKvBGe1NKHdC63C7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IptYaKvBGe1NKHdC63C7-7" target="IptYaKvBGe1NKHdC63C7-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IptYaKvBGe1NKHdC63C7-7" value="是否有可用节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="390" width="140" height="100" as="geometry" />
         </mxCell>
@@ -98,7 +101,10 @@
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IptYaKvBGe1NKHdC63C7-43" value="将任务分配到可用节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="510" width="130" height="60" as="geometry" />
+          <mxGeometry x="275" y="510" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IptYaKvBGe1NKHdC63C7-45" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="478" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
