@@ -62,7 +62,7 @@
           <mxGeometry x="110" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-35" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="640" y="360" width="200" height="270" as="geometry" />
+          <mxGeometry x="600" y="360" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-9" value="&lt;b&gt;Ray集群&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-35">
           <mxGeometry width="200" height="270" as="geometry" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-32" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-34">
           <mxGeometry width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6t5sTY7slnW8zWfKy3eA-9" target="6t5sTY7slnW8zWfKy3eA-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
