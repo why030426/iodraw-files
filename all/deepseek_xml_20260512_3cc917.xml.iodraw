@@ -16,6 +16,9 @@
         <mxCell id="IptYaKvBGe1NKHdC63C7-6" value="资源匹配&lt;div&gt;根据标签选择节点&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IptYaKvBGe1NKHdC63C7-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
