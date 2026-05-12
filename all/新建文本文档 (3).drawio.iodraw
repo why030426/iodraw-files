@@ -19,6 +19,9 @@
         <mxCell id="6t5sTY7slnW8zWfKy3eA-3" value="&lt;b&gt;FastAPI层&lt;/b&gt;&lt;div&gt;阶段管理/应用管理/策略管理/任务管理/实验管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="300" width="450" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="6t5sTY7slnW8zWfKy3eA-13" target="6t5sTY7slnW8zWfKy3eA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-13" value="Prometheus监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="720" width="120" height="60" as="geometry" />
         </mxCell>
@@ -110,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-39" value="返回执行结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="608" width="100" height="30" as="geometry" />
+          <mxGeometry x="485" y="620" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
