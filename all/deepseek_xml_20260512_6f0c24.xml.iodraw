@@ -98,10 +98,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="740" y="150" />
-              <mxPoint x="740" y="170" />
-              <mxPoint x="700" y="170" />
+              <mxPoint x="740" y="180" />
+              <mxPoint x="700" y="180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ZKnJ7XHd2kcIE69_ySN-37" target="6ZKnJ7XHd2kcIE69_ySN-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ZKnJ7XHd2kcIE69_ySN-37" value="Prometheus监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="710" y="90" width="120" height="60" as="geometry" />
@@ -116,7 +119,7 @@
           <mxGeometry x="900" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ZKnJ7XHd2kcIE69_ySN-43" value="前端展示各节点信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ZKnJ7XHd2kcIE69_ySN-45" value="封装入策略上下文" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1010" y="95" width="120" height="30" as="geometry" />
