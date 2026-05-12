@@ -13,6 +13,9 @@
         <mxCell id="6t5sTY7slnW8zWfKy3eA-3" value="FastAPI层&lt;div&gt;阶段管理/应用管理/策略管理/任务管理/实验管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-4" value="编排引擎（RayExecutor）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
