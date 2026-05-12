@@ -100,8 +100,11 @@
         <mxCell id="6t5sTY7slnW8zWfKy3eA-32" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-34">
           <mxGeometry width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6t5sTY7slnW8zWfKy3eA-9" target="6t5sTY7slnW8zWfKy3eA-13">
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="6t5sTY7slnW8zWfKy3eA-9" target="6t5sTY7slnW8zWfKy3eA-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="708" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
