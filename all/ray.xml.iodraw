@@ -10,7 +10,7 @@
         <mxCell id="client" value="Client&#xa;（驱动程序）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="190" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="head" value="Head Node（主节点）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="head" value="Head Node（主节点）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="90" width="760" height="320" as="geometry" />
         </mxCell>
         <mxCell id="control" value="控制面（Control Plane）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;dashed=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#4A86E8;strokeWidth=2;" parent="1" vertex="1">
@@ -52,7 +52,7 @@
         <mxCell id="mxi9mqSo_jdHZnMJNuTK-6" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="330" y="520" width="250" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="worker1" value="Worker Node 1&#xa;（工作节点1）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeColor=#6AA84F;strokeWidth=2;" parent="mxi9mqSo_jdHZnMJNuTK-6" vertex="1">
+        <mxCell id="worker1" value="Worker Node 1&lt;br&gt;（工作节点1）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeColor=#6AA84F;strokeWidth=2;" parent="mxi9mqSo_jdHZnMJNuTK-6" vertex="1">
           <mxGeometry width="250" height="300" as="geometry" />
         </mxCell>
         <mxCell id="worker1exec" value="Worker&#xa;（执行器）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#6AA84F;strokeWidth=2;" parent="mxi9mqSo_jdHZnMJNuTK-6" vertex="1">
