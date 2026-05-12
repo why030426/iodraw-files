@@ -55,7 +55,7 @@
         <mxCell id="edge2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startArrow=block;endArrow=block;fontSize=22;" parent="1" source="gcs" target="scheduler" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A86E8;strokeWidth=2;dashed=1;endArrow=block;fontSize=22;" parent="1" target="worker1" edge="1">
+        <mxCell id="edge3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A86E8;strokeWidth=2;dashed=1;endArrow=block;fontSize=22;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="scheduler" target="worker1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1190" y="190" as="sourcePoint" />
             <Array as="points">
