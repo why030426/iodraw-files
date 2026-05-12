@@ -58,6 +58,9 @@
         <mxCell id="19" value="横向协同" style="shape=mxgraph.arrows.doubleArrow;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="320" y="860" width="760" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JLYpf_IFXy4DfvYMdaZc-24" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="680" y="430" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
