@@ -94,6 +94,11 @@
         <mxCell id="6ZKnJ7XHd2kcIE69_ySN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ZKnJ7XHd2kcIE69_ySN-37" target="6ZKnJ7XHd2kcIE69_ySN-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6ZKnJ7XHd2kcIE69_ySN-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6ZKnJ7XHd2kcIE69_ySN-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6ZKnJ7XHd2kcIE69_ySN-37" value="Prometheus监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="120" height="60" as="geometry" />
         </mxCell>
