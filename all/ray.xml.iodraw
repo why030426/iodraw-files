@@ -73,7 +73,7 @@
         <mxCell id="edge8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6AA84F;strokeWidth=2;endArrow=block;fontSize=22;" parent="1" source="workerNexec" target="objectN" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge9" value="4. 对象数据传输" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#888888;strokeWidth=2;endArrow=block;fontSize=22;" parent="1" source="object1" target="object2" edge="1">
+        <mxCell id="edge9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#888888;strokeWidth=2;endArrow=block;fontSize=22;" parent="1" source="object1" target="object2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="edge10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#888888;strokeWidth=2;endArrow=block;fontSize=22;" parent="1" source="object2" target="objectN" edge="1">
@@ -84,12 +84,6 @@
         </mxCell>
         <mxCell id="mxi9mqSo_jdHZnMJNuTK-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;提交任务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="220" y="210" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mxi9mqSo_jdHZnMJNuTK-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1290" y="150" as="sourcePoint" />
-            <mxPoint x="1340" y="100" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
