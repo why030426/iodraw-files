@@ -58,7 +58,7 @@
         <mxCell id="19" value="横向协同" style="shape=mxgraph.arrows.doubleArrow;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="320" y="860" width="760" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JLYpf_IFXy4DfvYMdaZc-19" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;startWidth=68.33333333333334;startSize=0.45000000000000007;" edge="1" parent="1">
+        <mxCell id="JLYpf_IFXy4DfvYMdaZc-19" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;startWidth=91.66666666666667;startSize=12.45;endWidth=91.66666666666667;endSize=12.45;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1350" y="650" as="sourcePoint" />
             <mxPoint x="1480" y="650" as="targetPoint" />
