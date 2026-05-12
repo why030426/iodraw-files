@@ -13,7 +13,7 @@
         <mxCell id="head" value="Head Node（主节点）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="90" width="760" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="control" value="控制面（Control Plane）" style="rounded=1;dashed=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#4A86E8;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="control" value="控制面（Control Plane）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;dashed=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#4A86E8;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="400" y="140" width="680" height="220" as="geometry" />
         </mxCell>
         <mxCell id="gcs" value="GCS&#xa;(Global Control Store)&#xa;全局控制存储&#xa;（集群元数据管理）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#4A86E8;strokeWidth=2;" parent="1" vertex="1">
