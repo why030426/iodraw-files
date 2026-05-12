@@ -20,7 +20,7 @@
           <mxGeometry x="50" y="300" width="450" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-5" value="DAG遍历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="500" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-6" value="节点/层级选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="580" width="120" height="60" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="260" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-8" value="策略决策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="500" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-9" value="Ray集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="120" height="60" as="geometry" />
