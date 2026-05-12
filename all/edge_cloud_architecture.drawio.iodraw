@@ -32,7 +32,7 @@
           <mxGeometry x="830" y="330" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="11" value="边缘服务器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="980" y="320" width="140" height="60" as="geometry" />
+          <mxGeometry x="990" y="320" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="12" value="终端层" style="text;html=1;fontSize=28;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="560" width="120" height="40" as="geometry" />
@@ -63,8 +63,8 @@
         </mxCell>
         <mxCell id="JLYpf_IFXy4DfvYMdaZc-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="356.67" as="sourcePoint" />
-            <mxPoint x="570" y="356.67" as="targetPoint" />
+            <mxPoint x="500" y="354.17" as="sourcePoint" />
+            <mxPoint x="560" y="354.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JLYpf_IFXy4DfvYMdaZc-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
