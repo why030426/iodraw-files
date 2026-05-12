@@ -88,13 +88,13 @@
         <mxCell id="6t5sTY7slnW8zWfKy3eA-34" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="680" y="477.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-30" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-34">
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-30" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-34">
           <mxGeometry x="30" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-31" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-34">
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-31" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-34">
           <mxGeometry x="15" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-32" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-34">
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-32" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-34">
           <mxGeometry width="90" height="60" as="geometry" />
         </mxCell>
       </root>
