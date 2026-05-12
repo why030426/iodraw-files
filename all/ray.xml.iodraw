@@ -25,15 +25,6 @@
         <mxCell id="scheduler" value="Scheduler&#xa;（调度器）&#xa;任务调度与资源管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#4A86E8;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="795" y="190" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="workerN" value="Worker Node N&#xa;（工作节点N）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="940" y="520" width="250" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="workerNexec" value="Worker&#xa;（执行器）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="985" y="590" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="objectN" value="Object Store&#xa;（本地对象存储）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="975" y="710" width="180" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="edge1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;fontSize=22;" parent="1" source="client" target="head" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -44,9 +35,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="edge5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A86E8;strokeWidth=2;dashed=1;endArrow=block;fontSize=22;" parent="1" source="scheduler" target="workerN" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="edge8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6AA84F;strokeWidth=2;endArrow=block;fontSize=22;" parent="1" source="workerNexec" target="objectN" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="edge9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#888888;strokeWidth=2;endArrow=block;fontSize=22;" parent="1" source="object1" target="object2" edge="1">
@@ -62,7 +50,7 @@
           <mxGeometry x="220" y="210" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mxi9mqSo_jdHZnMJNuTK-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220" y="520" width="250" height="300" as="geometry" />
+          <mxGeometry x="270" y="520" width="250" height="300" as="geometry" />
         </mxCell>
         <mxCell id="worker1" value="Worker Node 1&#xa;（工作节点1）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeColor=#6AA84F;strokeWidth=2;" parent="mxi9mqSo_jdHZnMJNuTK-6" vertex="1">
           <mxGeometry width="250" height="300" as="geometry" />
@@ -89,6 +77,21 @@
           <mxGeometry x="35" y="190" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="edge7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6AA84F;strokeWidth=2;endArrow=block;fontSize=22;" parent="mxi9mqSo_jdHZnMJNuTK-7" source="worker2exec" target="object2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxi9mqSo_jdHZnMJNuTK-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="940" y="520" width="250" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="workerN" value="Worker Node N&#xa;（工作节点N）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeColor=#6AA84F;strokeWidth=2;" parent="mxi9mqSo_jdHZnMJNuTK-8" vertex="1">
+          <mxGeometry width="250" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="workerNexec" value="Worker&#xa;（执行器）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#6AA84F;strokeWidth=2;" parent="mxi9mqSo_jdHZnMJNuTK-8" vertex="1">
+          <mxGeometry x="45" y="70" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="objectN" value="Object Store&#xa;（本地对象存储）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#6AA84F;strokeWidth=2;" parent="mxi9mqSo_jdHZnMJNuTK-8" vertex="1">
+          <mxGeometry x="35" y="190" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="edge8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6AA84F;strokeWidth=2;endArrow=block;fontSize=22;" parent="mxi9mqSo_jdHZnMJNuTK-8" source="workerNexec" target="objectN" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
