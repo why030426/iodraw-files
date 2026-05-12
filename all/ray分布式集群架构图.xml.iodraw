@@ -1,58 +1,85 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
-  <diagram name="Ray Architecture" id="ray-arch">
-    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="ray-cluster" name="Page-1">
+    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Head Node" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="450" y="40" width="180" height="60" as="geometry" />
+        <mxCell id="title" value="图2-1  Ray集群结构与任务调度流程" style="text;html=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="20" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="GCS (Global Control Store)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="250" y="130" width="220" height="60" as="geometry" />
+        <mxCell id="client" value="Client&#xa;（驱动程序）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="180" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Scheduler" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="500" y="130" width="160" height="60" as="geometry" />
+        <mxCell id="head" value="Head Node（主节点）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="360" y="90" width="760" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Worker Node A\n(tier_terminal)" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="120" y="280" width="180" height="80" as="geometry" />
+        <mxCell id="control" value="控制面（Control Plane）" style="rounded=1;dashed=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#4A86E8;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="400" y="140" width="680" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Worker Node B\n(tier_edge)" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="400" y="280" width="180" height="80" as="geometry" />
+        <mxCell id="gcs" value="GCS&#xa;(Global Control Store)&#xa;全局控制存储&#xa;（集群元数据管理）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#4A86E8;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="430" y="190" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Worker Node C\n(tier_cloud)" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="680" y="280" width="180" height="80" as="geometry" />
+        <mxCell id="scheduler" value="Scheduler&#xa;（调度器）&#xa;任务调度与资源管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#4A86E8;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="790" y="190" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Object Store" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="120" y="380" width="180" height="50" as="geometry" />
+        <mxCell id="worker1" value="Worker Node 1&#xa;（工作节点1）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="220" y="520" width="250" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Object Store" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="400" y="380" width="180" height="50" as="geometry" />
+        <mxCell id="worker1exec" value="Worker&#xa;（执行器）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="265" y="590" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="Object Store" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="680" y="380" width="180" height="50" as="geometry" />
+        <mxCell id="object1" value="Object Store&#xa;（本地对象存储）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="255" y="710" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" parent="1" source="2" target="3" edge="1">
+        <mxCell id="worker2" value="Worker Node 2&#xa;（工作节点2）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="580" y="520" width="250" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="worker2exec" value="Worker&#xa;（执行器）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="625" y="590" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="object2" value="Object Store&#xa;（本地对象存储）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="615" y="710" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="workerN" value="Worker Node N&#xa;（工作节点N）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="940" y="520" width="250" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="workerNexec" value="Worker&#xa;（执行器）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="985" y="590" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="objectN" value="Object Store&#xa;（本地对象存储）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="975" y="710" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="edge1" value="1. 提交任务" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" parent="1" source="client" target="head" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" parent="1" source="2" target="4" edge="1">
+        <mxCell id="edge2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startArrow=block;endArrow=block;" parent="1" source="gcs" target="scheduler" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" parent="1" source="3" target="5" edge="1">
+        <mxCell id="edge3" value="2. 调度任务" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A86E8;strokeWidth=2;dashed=1;endArrow=block;" parent="1" source="scheduler" target="worker1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" parent="1" source="3" target="6" edge="1">
+        <mxCell id="edge4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A86E8;strokeWidth=2;dashed=1;endArrow=block;" parent="1" source="scheduler" target="worker2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="15" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" parent="1" source="3" target="7" edge="1">
+        <mxCell id="edge5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A86E8;strokeWidth=2;dashed=1;endArrow=block;" parent="1" source="scheduler" target="workerN" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" parent="1" source="5" target="8" edge="1">
+        <mxCell id="edge6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6AA84F;strokeWidth=2;endArrow=block;" parent="1" source="worker1exec" target="object1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="17" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" parent="1" source="6" target="9" edge="1">
+        <mxCell id="edge7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6AA84F;strokeWidth=2;endArrow=block;" parent="1" source="worker2exec" target="object2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" parent="1" source="7" target="10" edge="1">
+        <mxCell id="edge8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6AA84F;strokeWidth=2;endArrow=block;" parent="1" source="workerNexec" target="objectN" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge9" value="4. 对象数据传输" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#888888;strokeWidth=2;endArrow=block;" parent="1" source="object1" target="object2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#888888;strokeWidth=2;endArrow=block;" parent="1" source="object2" target="objectN" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge11" value="5. 返回结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F6B26B;strokeWidth=2;dashed=1;endArrow=block;" parent="1" source="worker1" target="client" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
