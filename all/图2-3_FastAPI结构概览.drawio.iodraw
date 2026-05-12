@@ -17,7 +17,7 @@
           <mxGeometry x="540" y="120" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6" value="Pydantic Schema&#xa;(请求/响应验证 + 序列化)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="540" y="220" width="220" height="70" as="geometry" />
+          <mxGeometry x="770" y="220" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7" value="Service层&#xa;(业务逻辑处理)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="280" width="220" height="80" as="geometry" />
