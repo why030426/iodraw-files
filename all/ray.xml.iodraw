@@ -49,7 +49,7 @@
         <mxCell id="objectN" value="Object Store&#xa;（本地对象存储）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="975" y="710" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="edge1" value="1. 提交任务" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" parent="1" source="client" target="head" edge="1">
+        <mxCell id="edge1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;1. 提交任务&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" parent="1" source="client" target="head" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="edge2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startArrow=block;endArrow=block;" parent="1" source="gcs" target="scheduler" edge="1">
