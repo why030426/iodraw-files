@@ -43,8 +43,8 @@
         <mxCell id="IptYaKvBGe1NKHdC63C7-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IptYaKvBGe1NKHdC63C7-17">
           <mxGeometry x="10" y="10" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IptYaKvBGe1NKHdC63C7-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IptYaKvBGe1NKHdC63C7-17">
-          <mxGeometry y="10" width="50" height="60" as="geometry" />
+        <mxCell id="IptYaKvBGe1NKHdC63C7-14" value="&lt;b&gt;节点&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IptYaKvBGe1NKHdC63C7-17">
+          <mxGeometry x="-20" y="10" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
