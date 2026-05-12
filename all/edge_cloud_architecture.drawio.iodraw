@@ -109,6 +109,9 @@
         <mxCell id="JLYpf_IFXy4DfvYMdaZc-37" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;分布式&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="15" y="723" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JLYpf_IFXy4DfvYMdaZc-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="828" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
