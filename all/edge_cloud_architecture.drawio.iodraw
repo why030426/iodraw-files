@@ -37,30 +37,6 @@
         <mxCell id="17" value="VR头显" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="980" y="560" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JLYpf_IFXy4DfvYMdaZc-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="354.17" as="sourcePoint" />
-            <mxPoint x="530" y="354.17" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JLYpf_IFXy4DfvYMdaZc-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="354.17" as="sourcePoint" />
-            <mxPoint x="830" y="354.17" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JLYpf_IFXy4DfvYMdaZc-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="354.17" as="sourcePoint" />
-            <mxPoint x="690" y="354.17" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JLYpf_IFXy4DfvYMdaZc-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="930" y="356.67" as="sourcePoint" />
-            <mxPoint x="990" y="356.67" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JLYpf_IFXy4DfvYMdaZc-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="709.17" y="185" as="sourcePoint" />
@@ -153,6 +129,33 @@
         </mxCell>
         <mxCell id="JLYpf_IFXy4DfvYMdaZc-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;网络交换设备&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="JLYpf_IFXy4DfvYMdaZc-49">
           <mxGeometry x="380" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="JLYpf_IFXy4DfvYMdaZc-50" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="354.17" width="520" height="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JLYpf_IFXy4DfvYMdaZc-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="JLYpf_IFXy4DfvYMdaZc-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JLYpf_IFXy4DfvYMdaZc-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="JLYpf_IFXy4DfvYMdaZc-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" as="sourcePoint" />
+            <mxPoint x="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JLYpf_IFXy4DfvYMdaZc-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="JLYpf_IFXy4DfvYMdaZc-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" as="sourcePoint" />
+            <mxPoint x="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JLYpf_IFXy4DfvYMdaZc-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="JLYpf_IFXy4DfvYMdaZc-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="2.5" as="sourcePoint" />
+            <mxPoint x="520" y="2.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
