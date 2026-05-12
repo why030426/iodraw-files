@@ -43,7 +43,7 @@
         <mxCell id="edge10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#888888;strokeWidth=2;endArrow=block;fontSize=22;" parent="1" source="object2" target="objectN" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge11" value="5. 返回结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F6B26B;strokeWidth=2;dashed=1;endArrow=block;fontSize=22;" parent="1" source="worker1" target="client" edge="1">
+        <mxCell id="edge11" value="返回结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F6B26B;strokeWidth=2;dashed=1;endArrow=block;fontSize=22;" parent="1" source="worker1" target="client" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mxi9mqSo_jdHZnMJNuTK-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;提交任务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
@@ -139,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mxi9mqSo_jdHZnMJNuTK-22" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;跨界点数据传输&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="833" width="180" height="40" as="geometry" />
+          <mxGeometry x="665" y="840" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
