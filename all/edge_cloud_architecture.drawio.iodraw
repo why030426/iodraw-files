@@ -152,16 +152,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JLYpf_IFXy4DfvYMdaZc-63" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="420" y="450" width="140" height="70" as="geometry" />
+          <mxGeometry x="420" y="450" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLYpf_IFXy4DfvYMdaZc-64" value="" style="group" vertex="1" connectable="0" parent="JLYpf_IFXy4DfvYMdaZc-63">
-          <mxGeometry y="20" width="140" height="40" as="geometry" />
+          <mxGeometry y="20" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLYpf_IFXy4DfvYMdaZc-65" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;服务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JLYpf_IFXy4DfvYMdaZc-64">
-          <mxGeometry width="60" height="40" as="geometry" />
+        <mxCell id="JLYpf_IFXy4DfvYMdaZc-65" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;服务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JLYpf_IFXy4DfvYMdaZc-64">
+          <mxGeometry x="-5" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLYpf_IFXy4DfvYMdaZc-66" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;任务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JLYpf_IFXy4DfvYMdaZc-64">
-          <mxGeometry x="80" width="60" height="40" as="geometry" />
+        <mxCell id="JLYpf_IFXy4DfvYMdaZc-66" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;任务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JLYpf_IFXy4DfvYMdaZc-64">
+          <mxGeometry x="75" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JLYpf_IFXy4DfvYMdaZc-67" value="" style="group" vertex="1" connectable="0" parent="JLYpf_IFXy4DfvYMdaZc-63">
           <mxGeometry x="60" width="20" height="70" as="geometry" />
@@ -232,8 +232,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JLYpf_IFXy4DfvYMdaZc-79" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;5G/6G/Wi-Fi&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="465" width="130" height="40" as="geometry" />
+        <mxCell id="JLYpf_IFXy4DfvYMdaZc-79" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;5G/6G/Wi-Fi&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="465" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
