@@ -19,7 +19,7 @@
         <mxCell id="gcs" value="GCS&#xa;(Global Control Store)&#xa;全局控制存储&#xa;（集群元数据管理）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#4A86E8;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="425" y="190" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="mxi9mqSo_jdHZnMJNuTK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4A86E8;" edge="1" parent="1" source="scheduler" target="worker1">
+        <mxCell id="mxi9mqSo_jdHZnMJNuTK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4A86E8;dashed=1;" edge="1" parent="1" source="scheduler" target="worker1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="scheduler" value="Scheduler&#xa;（调度器）&#xa;任务调度与资源管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#4A86E8;strokeWidth=2;" parent="1" vertex="1">
