@@ -32,7 +32,10 @@
           <mxGeometry x="565" y="145" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IptYaKvBGe1NKHdC63C7-13" value="终端层节点&lt;div&gt;标签：tier_end&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="463" width="100" height="40" as="geometry" />
+          <mxGeometry x="565" y="165" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IptYaKvBGe1NKHdC63C7-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
