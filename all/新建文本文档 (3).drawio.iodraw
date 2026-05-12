@@ -20,7 +20,7 @@
           <mxGeometry x="50" y="300" width="450" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-9" value="Ray集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="260" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-10" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="460" width="120" height="60" as="geometry" />
