@@ -19,9 +19,6 @@
         <mxCell id="6t5sTY7slnW8zWfKy3eA-3" value="&lt;b&gt;FastAPI层&lt;/b&gt;&lt;div&gt;阶段管理/应用管理/策略管理/任务管理/实验管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="300" width="450" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-9" value="&lt;b&gt;Ray集群&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="360" width="200" height="270" as="geometry" />
-        </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-13" value="Prometheus监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="720" width="120" height="60" as="geometry" />
         </mxCell>
@@ -64,17 +61,23 @@
         <mxCell id="6t5sTY7slnW8zWfKy3eA-8" value="策略决策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-21">
           <mxGeometry x="110" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-26" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="710" y="400" width="90" height="60" as="geometry" />
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="640" y="360" width="200" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-25" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="695" y="400" width="90" height="60" as="geometry" />
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-9" value="&lt;b&gt;Ray集群&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-35">
+          <mxGeometry width="200" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-10" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="680" y="400" width="90" height="60" as="geometry" />
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-26" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-35">
+          <mxGeometry x="70" y="40" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="680" y="550" width="115" height="60" as="geometry" />
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-25" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-35">
+          <mxGeometry x="55" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-10" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-35">
+          <mxGeometry x="40" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-33" value="" style="group" vertex="1" connectable="0" parent="6t5sTY7slnW8zWfKy3eA-35">
+          <mxGeometry x="40" y="190" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-27" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-33">
           <mxGeometry x="25" width="90" height="60" as="geometry" />
@@ -85,8 +88,8 @@
         <mxCell id="6t5sTY7slnW8zWfKy3eA-29" value="边缘节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-33">
           <mxGeometry width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="680" y="477.5" width="120" height="60" as="geometry" />
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-34" value="" style="group" vertex="1" connectable="0" parent="6t5sTY7slnW8zWfKy3eA-35">
+          <mxGeometry x="40" y="117.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-30" value="云端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6t5sTY7slnW8zWfKy3eA-34">
           <mxGeometry x="30" width="90" height="60" as="geometry" />
