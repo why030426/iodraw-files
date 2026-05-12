@@ -23,7 +23,7 @@
           <mxGeometry x="540" y="280" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Ray集群&#xa;(推理任务执行)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="160" y="385" width="220" height="80" as="geometry" />
+          <mxGeometry x="280" y="385" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="10" style="endArrow=block;html=1;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1vOu1A4RarPySLb4ABB6-16" value="Pydantic Schema&#xa;(请求/响应验证 + 序列化)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="220" width="180" height="50" as="geometry" />
+          <mxGeometry x="630" y="210" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
