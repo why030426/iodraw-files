@@ -49,6 +49,9 @@
         <mxCell id="16" style="endArrow=block;html=1;" parent="1" source="5" target="8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1vOu1A4RarPySLb4ABB6-16" value="&lt;span style=&quot;white-space: normal;&quot;&gt;Pydantic Schema&lt;/span&gt;&lt;br style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;(请求/响应验证 + 序列化)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
