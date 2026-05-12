@@ -19,9 +19,6 @@
         <mxCell id="IptYaKvBGe1NKHdC63C7-7" value="是否有可用节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="460" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="IptYaKvBGe1NKHdC63C7-8" value="将任务分配到目标节点执行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
