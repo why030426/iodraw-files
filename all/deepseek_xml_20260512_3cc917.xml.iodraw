@@ -68,7 +68,7 @@
           <mxGeometry x="5" width="210" height="75" as="geometry" />
         </mxCell>
         <mxCell id="IptYaKvBGe1NKHdC63C7-21" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;边缘层节点&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;标签：tier_end&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="IptYaKvBGe1NKHdC63C7-19">
-          <mxGeometry x="-5" y="10" width="120" height="50" as="geometry" />
+          <mxGeometry y="10" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IptYaKvBGe1NKHdC63C7-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="IptYaKvBGe1NKHdC63C7-19">
           <mxGeometry x="150" y="10" width="50" height="60" as="geometry" />
