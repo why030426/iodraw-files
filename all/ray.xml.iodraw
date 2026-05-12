@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mxi9mqSo_jdHZnMJNuTK-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="580" y="520" width="250" height="300" as="geometry" />
+          <mxGeometry x="620" y="520" width="250" height="300" as="geometry" />
         </mxCell>
         <mxCell id="worker2" value="Worker Node 2&#xa;（工作节点2）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeColor=#6AA84F;strokeWidth=2;" parent="mxi9mqSo_jdHZnMJNuTK-7" vertex="1">
           <mxGeometry width="250" height="300" as="geometry" />
