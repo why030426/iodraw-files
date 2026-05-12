@@ -82,7 +82,7 @@
         <mxCell id="mxi9mqSo_jdHZnMJNuTK-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="940" y="520" width="250" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="workerN" value="Worker Node N&#xa;（工作节点N）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeColor=#6AA84F;strokeWidth=2;" parent="mxi9mqSo_jdHZnMJNuTK-8" vertex="1">
+        <mxCell id="workerN" value="Worker Node N&lt;br&gt;（工作节点N）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeColor=#6AA84F;strokeWidth=2;" parent="mxi9mqSo_jdHZnMJNuTK-8" vertex="1">
           <mxGeometry width="250" height="300" as="geometry" />
         </mxCell>
         <mxCell id="workerNexec" value="Worker&#xa;（执行器）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#6AA84F;strokeWidth=2;" parent="mxi9mqSo_jdHZnMJNuTK-8" vertex="1">
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mxi9mqSo_jdHZnMJNuTK-9" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;调度任务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1305" y="403" width="110" height="40" as="geometry" />
+          <mxGeometry x="910" y="370" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
