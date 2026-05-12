@@ -131,7 +131,7 @@
           <mxGeometry x="800" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ZKnJ7XHd2kcIE69_ySN-52" value="聚合计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="268" width="70" height="30" as="geometry" />
+          <mxGeometry x="840" y="210" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
