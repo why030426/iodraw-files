@@ -101,10 +101,10 @@
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IptYaKvBGe1NKHdC63C7-43" value="将任务分配到可用节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="510" width="130" height="60" as="geometry" />
+          <mxGeometry x="275" y="520" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IptYaKvBGe1NKHdC63C7-45" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="478" width="40" height="30" as="geometry" />
+          <mxGeometry x="300" y="490" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
