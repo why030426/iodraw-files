@@ -20,7 +20,7 @@
           <mxGeometry x="425" y="190" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="scheduler" value="Scheduler&#xa;（调度器）&#xa;任务调度与资源管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#4A86E8;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="790" y="190" width="240" height="140" as="geometry" />
+          <mxGeometry x="850" y="190" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="worker1" value="Worker Node 1&#xa;（工作节点1）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeColor=#6AA84F;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="220" y="520" width="250" height="300" as="geometry" />
@@ -56,7 +56,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="edge3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A86E8;strokeWidth=2;dashed=1;endArrow=block;fontSize=22;" parent="1" source="scheduler" target="worker1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="260" />
+              <mxPoint x="1380" y="670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="edge4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A86E8;strokeWidth=2;dashed=1;endArrow=block;fontSize=22;" parent="1" source="scheduler" target="worker2" edge="1">
           <mxGeometry relative="1" as="geometry" />
