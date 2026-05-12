@@ -37,7 +37,7 @@
         <mxCell id="6t5sTY7slnW8zWfKy3eA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontSize=14;" edge="1" parent="1" source="6t5sTY7slnW8zWfKy3eA-13" target="6t5sTY7slnW8zWfKy3eA-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6t5sTY7slnW8zWfKy3eA-13" value="Prometheus监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="6t5sTY7slnW8zWfKy3eA-13" value="&lt;b&gt;Prometheus监控&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="400" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-15" value="SQLite数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6t5sTY7slnW8zWfKy3eA-52" value="调度到&lt;div style=&quot;font-size: 14px;&quot;&gt;目标节点&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="520" y="340" width="80" height="50" as="geometry" />
+          <mxGeometry x="520" y="450" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
