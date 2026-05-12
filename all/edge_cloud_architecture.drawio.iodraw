@@ -218,10 +218,10 @@
           <mxGeometry x="40" y="60" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="15" value="笔记本电脑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="JLYpf_IFXy4DfvYMdaZc-70" vertex="1">
-          <mxGeometry x="220" y="60" width="140" height="50" as="geometry" />
+          <mxGeometry x="235.62" y="60" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="16" value="智能设备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="JLYpf_IFXy4DfvYMdaZc-70" vertex="1">
-          <mxGeometry x="480" y="60" width="140" height="50" as="geometry" />
+          <mxGeometry x="465.62" y="60" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="17" value="VR头显" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="JLYpf_IFXy4DfvYMdaZc-70" vertex="1">
           <mxGeometry x="680" y="60" width="120" height="50" as="geometry" />
