@@ -7,8 +7,8 @@
         <mxCell id="IptYaKvBGe1NKHdC63C7-1" value="提交Ray任务&lt;div&gt;@ray.remote&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IptYaKvBGe1NKHdC63C7-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="IptYaKvBGe1NKHdC63C7-3" value="Ray Head Node" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
